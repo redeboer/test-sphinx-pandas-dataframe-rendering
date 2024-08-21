@@ -1,0 +1,6 @@
+title: Test book
+execute:
+  execute_notebooks: force
+sphinx:
+  config:
+    nb_render_markdown_format: myst

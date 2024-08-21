@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.venv/
+*.egg-info/
+_build/
+build/
+jupyter_execute/
